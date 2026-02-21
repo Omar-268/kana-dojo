@@ -1,9 +1,9 @@
 [
   {
-  "question": "Which season is associated with red maple leaves (momiji) in Japan? (Community variation 16)",
-  "difficulty": "medium",
-  "answers": ["Spring", "Summer", "Autumn", "Winter"],
-  "correctIndex": 2
+    "question": "Which season is associated with red maple leaves (momiji) in Japan? (Community variation 16)",
+    "difficulty": "medium",
+    "answers": ["Spring", "Summer", "Autumn", "Winter"],
+    "correctIndex": 2
   },
   {
     "question": "Which Japanese festival features people throwing beans to drive away evil spirits?",
@@ -181,6 +181,12 @@
     "question": "Which city is known for the historic district of Higashiyama?",
     "difficulty": "medium",
     "answers": ["Kanazawa", "Kagoshima", "Nara", "Matsue"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Japanese food is a savory pancake cooked on a griddle?",
+    "difficulty": "medium",
+    "answers": ["Okonomiyaki", "Sashimi", "Onigiri", "Mochi"],
     "correctIndex": 0
   }
 ]
